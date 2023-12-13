@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "marcos-VirtualBox",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus9.actions.githubusercontent.com/qJgq1fE27j6K8UFZ1JXs0bxTKe63bablixKNTTMkwCC61subK5/",
+  "gitHubUrl": "https://github.com/mpf-engineer/PracticaDocker",
+  "workFolder": "_work"
+}
